@@ -29,6 +29,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = ['8000-oluwapelumi-boutiqueado-hvh9ei16i1g.ws.codeinstitute-ide.net',
                 '.codeinstitute-ide.net',
+                'django-boutique-ado-99-c5b0e0b7685d.herokuapp.com',
                 'django-boutique-ado-99.herokuapp.com',
                 'localhost,']
 
